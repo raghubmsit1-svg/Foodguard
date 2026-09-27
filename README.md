@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Header & Branding Badges:
 
-## Getting Started
+FoodGuard SVG logo and tagline ("Safe Food. Healthier Tomorrow.").
+Technology shield badges (Next.js 16, React 19, TypeScript, Tailwind CSS v4, ISO-17025 Standard).
+Project Overview & Real-World Use Case:
 
-First, run the development server:
+Explains the platform's role in nanoscale food safety, portable optical spectroscopy, and adulterant detection (starch, synthetic urea, detergents, and formalin in milk and honey).
+Detailed Screen-by-Screen Feature Breakdown:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome / Splash (/): Ambient scientific resonance wave animation, sensor auto-pairing.
+Terminal Dashboard (/dashboard): Active hardware status (FG-Sensor-904), compliance overview, quick action grid, recent verification feed.
+Molecular Scan Assay (/scan): Rotating laser radar sweeper, real-time absorption spectrum curve (400–780 nm), dynamic photonic flux ticker.
+ML Diagnostic & Sample Detail (/results): Interactive toggle between Adulteration Detected vs. Safe Benchmark, ResNet ML fit score, and printable Official Certificate of Analysis (CoA) modal.
+Test History & Records (/history): Real-time multi-criteria search, category filters, and JSON export.
+Food Safety Analytics (/analytics): Key metric cards, detection breakdown charts, and regional collection hotspot map.
+Sensor Calibration (/device): Optical auto-calibration diagnostic sweep and integration time tuning.
+Dual Viewport Mode: Handheld device frame simulation vs. widescreen clinical desktop view.
+Tech Stack & Architecture:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Highlights Next.js App Router, Turbopack, Tailwind CSS v4, Google Fonts (Manrope & Hanken Grotesk), and Material Symbols Outlined.
+Getting Started & Quick Setup Guide:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Step-by-step instructions for cloning, installing dependencies (npm install), and running the local server (npm run dev).
+Interactive Demo Flow:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A guided walkthrough so recruiters, evaluators, and open-source contributors can immediately test the simulation features.
